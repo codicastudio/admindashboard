@@ -16,7 +16,8 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
-        "divineomega/array_undot": "^4.1"
+        "divineomega/array_undot": "^4.1",
+        "codicastudio/admindashboard-valuewidget": "1.0"
     },
     "autoload": {
         "psr-4": {
