@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/admindashboard",
+    "name": "codicastudio/dashboard",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/admindashboard",
+    "homepage": "https://github.com/codicastudio/dashboard",
     "license": "MIT",
     "authors": [
         {
@@ -15,9 +15,9 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "divineomega/array_undot": "^4.1",
-        "codica-studio/admindashboard-valuewidget": "1.0",
-        "codica-studio/admindashboard-pillfilter": "1.0",
-        "codica-studio/admindashboard-rangefilter": "1.0"
+        "codicastudio/value-widget": "1.0",
+        "codicastudio/pill-filter": "1.0",
+        "codicastudio/range-filter": "1.0"
     },
     "autoload": {
         "psr-4": {
@@ -37,6 +37,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
