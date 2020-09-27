@@ -6994,7 +6994,7 @@ function singularOrPlural(value, suffix) {
 /**
  * Javascript inflector
  * 
- * @author Dida Nurwanda <didanurwanda@gmail.com>
+ * @author Codica Studio <maintenance@codicastudio.com>
  * @since 1.0
  */
 
@@ -66007,7 +66007,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SlideXRightTransition", function() { return SlideXRightTransition; });
 /*!
  * vue2-transitions v0.3.0
- * (c) 2019-present cristij <joracristi@gmail.com>
+ * (c) 2019-present cristij
  * Released under the MIT License.
  */
 var baseTransition = {
